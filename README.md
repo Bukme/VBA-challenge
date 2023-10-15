@@ -12,5 +12,5 @@ o365devx. (n.d.-a). Do...loop statement (VBA). (VBA) | Microsoft Learn. https://
 o365devx. (n.d.-b). Getting started with VBA in office. Microsoft Learn. https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office 
 
 I got some help especially from my second and third reference.
-For example, line 50 -53 of my vba sript(in vcs)was gotten from seconf reference.
+For example, line 50 -53 of my vba sript(in VSC)was gotten from second reference.
 Other insights were gotten from co-students and teaching assistants during class and office hours. 
